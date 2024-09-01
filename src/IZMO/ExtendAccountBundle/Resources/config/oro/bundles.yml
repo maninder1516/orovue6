@@ -1,0 +1,2 @@
+bundles:
+    - {name : IZMO\ExtendAccountBundle\IZMOExtendAccountBundle , priority: 255}

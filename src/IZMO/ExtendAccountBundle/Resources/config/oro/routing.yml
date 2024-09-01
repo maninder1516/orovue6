@@ -1,0 +1,4 @@
+extended_account_bundle:
+    resource: "@IZMOExtendAccountBundle/Controller"
+    type: annotation
+    prefix: /account
