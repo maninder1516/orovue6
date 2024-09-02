@@ -1,0 +1,9 @@
+label: Oro Theme
+logo: bundles/izmoextendui/themes/oro/images/geronimo_logo.png
+icon: bundles/izmoextendui/themes/oro/images/favicon.ico
+rtl_support: true
+styles:
+    css:
+        inputs:
+            - bundles/oroui/themes/oro/css/style.css
+        output: css/oro.css

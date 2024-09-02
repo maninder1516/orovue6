@@ -1,0 +1,9 @@
+services:
+    _defaults:
+        public: true
+
+    IZMO\ExtendUserBundle\Controller\SecurityController:
+        calls:
+            - ['setContainer', ['@Psr\Container\ContainerInterface']]
+        tags:
+            - { name: container.service_subscriber }    

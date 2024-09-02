@@ -1,0 +1,13 @@
+## YAML Template.
+services:
+#    IZMO\BrandBundle\Controller\BrandController:
+#      tags: ['controller.service_arguments']
+#      calls:
+#        - method: setContainer
+#          arguments: ['@service_container']
+    
+#    IZMO\BrandBundle\Controller\BrandController:
+#    public: true
+#    calls:
+#      - method: setContainer
+#        arguments: ['@service_container']

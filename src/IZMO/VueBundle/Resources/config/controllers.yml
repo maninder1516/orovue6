@@ -1,0 +1,10 @@
+services:
+    _defaults:
+        public: true
+
+    IZMO\VueBundle\Controller\VueController:
+        calls:
+            - ['setContainer', ['@Psr\Container\ContainerInterface']]
+        tags:
+            - { name: container.service_subscriber }           
+    

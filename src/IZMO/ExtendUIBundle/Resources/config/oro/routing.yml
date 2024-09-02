@@ -1,0 +1,4 @@
+extended_oro_ui_index:
+    resource: "@IZMOExtendUIBundle/Resources"
+    type: annotation
+    prefix: /account

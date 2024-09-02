@@ -1,0 +1,4 @@
+extended_user_bundle:
+    resource: "@IZMOExtendUserBundle/Controller"
+    type: annotation
+    prefix: /user

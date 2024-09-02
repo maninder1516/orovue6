@@ -1,0 +1,5 @@
+# src/Izmo/VueBundle/Resources/config/oro/routing.yml
+izmo_vue_bundle:
+    resource: "@IZMOVueBundle/Controller"
+    type: annotation
+    prefix: /vue

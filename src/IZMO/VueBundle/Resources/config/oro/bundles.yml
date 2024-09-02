@@ -1,0 +1,3 @@
+## YAML Template.
+bundles:
+    - {name : IZMO\VueBundle\IZMOVueBundle , priority: 255}

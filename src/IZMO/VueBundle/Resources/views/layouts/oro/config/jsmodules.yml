@@ -1,0 +1,8 @@
+aliases:
+    vue: vue/dist/vue.esm-bundler
+app-modules:
+    - izmovue/js/app/modules/vue-module
+dynamic-imports:
+    izmovueapp:
+        - izmovue/js/app/components/vue-app-component
+        - izmovueapp/js/vue-app/App
