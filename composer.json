@@ -211,6 +211,9 @@
         "symfony-web-dir": "public",
         "symfony-var-dir": "var",
         "symfony-bin-dir": "bin",
-        "symfony-tests-dir": "tests"
+        "symfony-tests-dir": "tests",
+        "npm": {
+            "vue": "^3.2.20"
+        }
     }
 }

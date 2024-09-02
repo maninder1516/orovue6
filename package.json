@@ -68,6 +68,7 @@
         "timepicker": "1.14.0",
         "tinymce": "6.7.*",
         "underscore": "1.13.*",
+        "vue": "^3.2.20",
         "when": "3.7.8",
         "xregexp": "^5.1.0"
     },
@@ -85,7 +86,8 @@
         "karma-firefox-launcher": "~2.1.2",
         "karma-jasmine": "~5.1.0",
         "karma-junit-reporter": "~2.0.1",
-        "karma-webpack": "~5.0.0"
+        "karma-webpack": "~5.0.0",
+        "vue-loader": "^17.4.2"
     },
     "private": true
 }

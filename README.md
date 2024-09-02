@@ -1,10 +1,10 @@
-OroCRM Sample Application
+OroCRM Vue Application
 =========================
 
 What Is Included?
 --------------------
 
-This sample application includes OroCRM Community Edition without eCommerce/marketplace modules.
+This application includes OroCRM integration  with Vue.js. It provides a simple example of how to integrate OroCRM with Vue.js.
 
 Other application distributions:
   * crm-enterprise-application - OroCRM Enterprise Edition, without eCommerce/marketplace modules
